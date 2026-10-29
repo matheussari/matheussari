@@ -42,8 +42,9 @@ Data Science & AI student at **PUC-GO** (Goiânia, Brazil) and IT Assistant at *
 
 ## ▸ Currently training
 
-- Artificial Intelligence course (Star Profissões): neural networks with TensorFlow/Keras
-- AWS fundamentals, working toward generative AI on the cloud
+- AI agents (AKCIT course) and AWS Cloud Practitioner Essentials: generative AI, LLMs and cloud
+- Neural networks with TensorFlow/Keras (Star Profissões AI course)
+- Data Science and AI degree at PUC-GO
 
 ## ▸ Comms
 
